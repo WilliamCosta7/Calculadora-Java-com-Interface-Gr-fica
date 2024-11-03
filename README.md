@@ -1,5 +1,5 @@
 # Calculadora-Java-com-Interface-Grafica
- Claro, aqui está um modelo de README para o seu projeto de calculadora:  Calculadora Java com Interface Gráfica Este projeto é uma calculadora desenvolvida em Java, utilizando a biblioteca Swing
+Calculadora Java com Interface Gráfica Este projeto é uma calculadora desenvolvida em Java, utilizando a biblioteca Swing.
 
 # Estrutura do Projeto
 O projeto está organizado nas seguintes classes:
